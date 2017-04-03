@@ -1,0 +1,149 @@
+Process Hacker 2.32
+Windows NT 6.1 Service Pack 1 (64-bit)
+15.07.2016 11:04:03
+
+Name					PID	CPU	I/O Total Rate	Private Bytes	User Name			Description							
+System Idle Process			0	77,55			0		NT AUTHORITY\система										
+  System				4	0,07	512 kB/s	112 kB		NT AUTHORITY\система		NT Kernel & System						
+    smss.exe				328				768 kB		NT AUTHORITY\система		Диспетчер сеанса  Windows					
+csrss.exe				412				3,42 MB		NT AUTHORITY\система		Процесс исполнения клиент-сервер				
+  conhost.exe				1944				1,77 MB		NT AUTHORITY\система		Окно консоли узла						
+  conhost.exe				9024				1,53 MB		NT AUTHORITY\система		Окно консоли узла						
+csrss.exe				452				2,19 MB		NT AUTHORITY\система		Процесс исполнения клиент-сервер				
+wininit.exe				460				2,07 MB		NT AUTHORITY\система		Автозагрузка приложений Windows					
+  services.exe				548	0,14			7,21 MB		NT AUTHORITY\система		Приложение служб и контроллеров					
+    svchost.exe				660				6,74 MB		NT AUTHORITY\система		Хост-процесс для служб Windows					
+      WmiPrvSE.exe			16392				45,46 MB	NT AUTHORITY\система		WMI Provider Host						
+      WmiPrvSE.exe			31700				9,75 MB		NT AUTHORITY\NETWORK SERVICE	WMI Provider Host						
+      WmiPrvSE.exe			28176				5,54 MB		NT AUTHORITY\LOCAL SERVICE	WMI Provider Host						
+    svchost.exe				740				9,04 MB		NT AUTHORITY\NETWORK SERVICE	Хост-процесс для служб Windows					
+    svchost.exe				836				135,57 MB	NT AUTHORITY\LOCAL SERVICE	Хост-процесс для служб Windows					
+    svchost.exe				884				50,33 MB	NT AUTHORITY\система		Хост-процесс для служб Windows					
+    svchost.exe				936				43,61 MB	NT AUTHORITY\LOCAL SERVICE	Хост-процесс для служб Windows					
+    svchost.exe				988				8,63 MB		NT AUTHORITY\система		Хост-процесс для служб Windows					
+      dwm.exe				1968				2,17 MB		HOST-SERVER\Maltsev		Диспетчер окон рабочего стола					
+      dwm.exe				4992				2,48 MB		HOST-SERVER\rakcheyev		Диспетчер окон рабочего стола					
+      dwm.exe				9496				2,45 MB		HOST-SERVER\OlegF		Диспетчер окон рабочего стола					
+      dwm.exe				21876				1,86 MB		HOST-SERVER\Vekov		Диспетчер окон рабочего стола					
+    svchost.exe				160				39,7 MB		NT AUTHORITY\NETWORK SERVICE	Хост-процесс для служб Windows					
+    svchost.exe				416				10,19 MB	NT AUTHORITY\LOCAL SERVICE	Хост-процесс для служб Windows					
+    spoolsv.exe				1060				7,55 MB		NT AUTHORITY\система		Диспетчер очереди печати					
+    agent.exe				1088				2,68 MB		NT AUTHORITY\система		Agent Core							
+    schedul2.exe			1144				4,57 MB		NT AUTHORITY\система		Acronis Scheduler 2						
+    svchost.exe				1176				8,3 MB		NT AUTHORITY\система		Хост-процесс для служб Windows					
+    arsm.exe				1212				5,86 MB		NT AUTHORITY\система		ARSM								
+    cissesrv.exe			1292				3,16 MB		NT AUTHORITY\система		HP Smart Array SAS/SATA Notification Service			
+    db2mgmtsvc.exe			1316				15,06 MB	NT AUTHORITY\система		IBM(R) DB2(R)							
+    ekrn.exe				1380	0,11	96,82 kB/s	125,86 MB	NT AUTHORITY\система		ESET Service							
+    mqsvc.exe				1404				8,29 MB		NT AUTHORITY\NETWORK SERVICE	Message Queuing Service						
+    sqlservr.exe			1624				204,06 MB	NT AUTHORITY\NETWORK SERVICE	SQL Server Windows NT - 64 Bit					
+    SMSvcHost.exe			1680				38,88 MB	NT AUTHORITY\LOCAL SERVICE	SMSvcHost.exe							
+    nxlog.exe				1928	0,02	320 B/s		43,46 MB	NT AUTHORITY\система										
+    extjob.exe				2004				3,23 MB		NT AUTHORITY\система										
+    TNSLSNR.EXE				1104				20,62 MB	NT AUTHORITY\система		Oracle TNSLSNR Executable					
+    oracle.exe				2068	4,94	107,7 kB/s	6,47 GB		NT AUTHORITY\система		Oracle RDBMS Kernel Executable					
+    ossec-agent.exe			2124				5,98 MB		NT AUTHORITY\система										
+    ProLiantMonitor.exe			2180		26 B/s		3,5 MB		NT AUTHORITY\система		HP ProLiant Monitor Service					
+    svchost.exe				2204				1,51 MB		NT AUTHORITY\LOCAL SERVICE	Хост-процесс для служб Windows					
+    svchost.exe				2268				10,82 MB	NT AUTHORITY\система		Хост-процесс для служб Windows					
+      w3wp.exe				21844	0,24	36,85 kB/s	340,33 MB	IIS APPPOOL\OWS Site		IIS Worker Process						
+    mms.exe				2684				351,88 MB	HOST-SERVER\Acronis Agent User	Acronis Managed Machine Service					
+    svchost.exe				3676				4,6 MB		NT AUTHORITY\NETWORK SERVICE	Хост-процесс для служб Windows					
+      rdpclip.exe			3920				1,88 MB		HOST-SERVER\Maltsev		Монитор буфера обмена RDP					
+      rdpclip.exe			4196				1,86 MB		HOST-SERVER\rakcheyev		Монитор буфера обмена RDP					
+      rdpclip.exe			5448				1,86 MB		HOST-SERVER\OlegF		Монитор буфера обмена RDP					
+      rdpclip.exe			24912				1,93 MB		HOST-SERVER\Vekov		Монитор буфера обмена RDP					
+    svchost.exe				3736				2,85 MB		NT AUTHORITY\NETWORK SERVICE	Хост-процесс для служб Windows					
+    taskhost.exe			3516				9,3 MB		HOST-SERVER\Maltsev		Хост-процесс для задач Windows					
+    msdtc.exe				4144				4,47 MB		NT AUTHORITY\NETWORK SERVICE	Служба координатора распределенных транзакций (Microsoft)	
+    taskhost.exe			1280				9,29 MB		HOST-SERVER\rakcheyev		Хост-процесс для задач Windows					
+    taskhost.exe			6360				9,33 MB		HOST-SERVER\OlegF		Хост-процесс для задач Windows					
+    nmesrvc.exe				9712				1,98 MB		NT AUTHORITY\система		Oracle Enterprise Manager executable				
+      cmd.exe				8432				2,77 MB		NT AUTHORITY\система		Обработчик команд Windows					
+        perl.exe			6720				17,76 MB	NT AUTHORITY\система										
+          cmd.exe			5768				2,7 MB		NT AUTHORITY\система		Обработчик команд Windows					
+            java.exe			6692				210,27 MB	NT AUTHORITY\система		Java(TM) 2 Platform Standard Edition binary			
+          emagent.exe			6852		16 B/s		77,05 MB	NT AUTHORITY\система		Oracle Enterprise Manager executable				
+          cmd.exe			16936				2,63 MB		NT AUTHORITY\система		Обработчик команд Windows					
+            emdctl.exe			30308		16 B/s		11,65 MB	NT AUTHORITY\система										
+    dllhost.exe				24704				5,34 MB		NT AUTHORITY\система		COM Surrogate							
+    taskhost.exe			23520				8,5 MB		HOST-SERVER\Vekov		Хост-процесс для задач Windows					
+    oravssw.exe				31968				10,95 MB	NT AUTHORITY\система										
+    TrustedInstaller.exe		27856				2,76 MB		NT AUTHORITY\система		Установщик модулей Windows					
+    sppsvc.exe				25320				3,75 MB		NT AUTHORITY\NETWORK SERVICE	Служба платформы защиты программного обеспечения Майкрософт	
+  lsass.exe				556				64,25 MB	NT AUTHORITY\система		Local Security Authority Process				
+  lsm.exe				564				5,64 MB		NT AUTHORITY\система		Служба диспетчера локальных сеансов				
+winlogon.exe				488				2,34 MB		NT AUTHORITY\система		Программа входа в систему Windows				
+  LogonUI.exe				828				9,97 MB		NT AUTHORITY\система		Windows Logon User Interface Host				
+csrss.exe				3264				2,86 MB		NT AUTHORITY\система		Процесс исполнения клиент-сервер				
+winlogon.exe				3168				2,71 MB		NT AUTHORITY\система		Программа входа в систему Windows				
+explorer.exe				4012				30,13 MB	HOST-SERVER\Maltsev		Проводник							
+  schedhlp.exe				964				1,23 MB		HOST-SERVER\Maltsev		Acronis Scheduler Helper					
+  egui.exe				3444				11,21 MB	HOST-SERVER\Maltsev		ESET GUI							
+  ProcessHacker.exe			848	0,05			19,09 MB	HOST-SERVER\Maltsev		Process Hacker							
+TibMounterMonitor.exe			3412				3,27 MB		HOST-SERVER\Maltsev		Acronis TIB Monitor						
+csrss.exe				3208	0,02			3,55 MB		NT AUTHORITY\система		Процесс исполнения клиент-сервер				
+winlogon.exe				4052				2,86 MB		NT AUTHORITY\система		Программа входа в систему Windows				
+explorer.exe				4056	6,25	99,04 kB/s	132,84 MB	HOST-SERVER\rakcheyev		Проводник							
+  schedhlp.exe				4784				1,46 MB		HOST-SERVER\rakcheyev		Acronis Scheduler Helper					
+  egui.exe				4228				4,43 MB		HOST-SERVER\rakcheyev		ESET GUI							
+  devenv.exe				4748	0,03	594 B/s		106,26 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    CyberPlat.vshost.exe		3036	0,01	2,08 kB/s	227,77 MB	HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				1132				24,37 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  devenv.exe				5300	0,03	620 B/s		120,95 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    HostSys_cash.vshost.exe		6392	0,44	24,78 kB/s	95,97 MB	HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				6440				25,62 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  devenv.exe				7016	0,07	528 B/s		178,78 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				6240				27,29 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    HostSys_posting.vshost.exe		25928				74,55 MB	HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				6788	0,06	544 B/s		143,43 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    HostSys_POS_ENGENICO.vshost.exe	6868	0,66	38,28 kB/s	120,93 MB	HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				3392				26,84 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  devenv.exe				7344	0,08	544 B/s		235,86 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    HostSys_ATM.vshost.exe		7616	0,68	37,32 kB/s	180,67 MB	HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				7668				34,74 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  devenv.exe				6532	0,05	544 B/s		135,05 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    HostSys_DPS.vshost.exe		7844	0,50	23,56 kB/s	108,03 MB	HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				7776				31,12 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  devenv.exe				2800	0,12	4,73 kB/s	126,59 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    HostSys_SMS_BNK.vshost.exe		8524	0,02	1,12 kB/s	98,15 MB	HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				8576				26,65 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  devenv.exe				14136	0,05	528 B/s		138,05 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				10708				25,8 MB		HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    Warn_ATM.vshost.exe			32696				68,86 MB	HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				5136	0,08	528 B/s		380,05 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				21520	0,11			31,54 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    HostSys_NSPK.vshost.exe		19824	1,67	74,31 kB/s	169,78 MB	HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				23828	0,22	1,82 kB/s	133,18 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				15932		276 B/s		32,04 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    HostSys_SMS.vshost.exe		18840	0,49	79,97 kB/s	128,36 MB	HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				22876	0,34	594 B/s		427,16 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				27924	0,10			35,58 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    HostSys_MC.vshost.exe		28336	1,76	76,17 kB/s	136,2 MB	HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				13632	0,07	544 B/s		344,54 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				16396	0,10			32,17 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    HostSys_HS.vshost.exe		4536	0,90	49,43 kB/s	263 MB		HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				20720	0,19	528 B/s		155,34 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    msvsmon.exe				13196				26,37 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+    HostSys_POS.vshost.exe		31536	0,72	47,38 kB/s	119,47 MB	HOST-SERVER\rakcheyev		vshost.exe							
+  devenv.exe				6824	0,05	544 B/s		133,69 MB	HOST-SERVER\rakcheyev		Microsoft Visual Studio 2010					
+    HostSys_OW.vshost.exe		20192	0,45	33,5 kB/s	121 MB		HOST-SERVER\rakcheyev		vshost.exe							
+    msvsmon.exe				20184	0,05			33,91 MB	HOST-SERVER\rakcheyev		Visual Studio Remote Debugging Monitor				
+  notepad++.exe				30844				369,55 MB	HOST-SERVER\rakcheyev		Notepad++ : a free (GNU) source code editor			
+TibMounterMonitor.exe			3796				3,27 MB		HOST-SERVER\rakcheyev		Acronis TIB Monitor						
+csrss.exe				6976				3,72 MB		NT AUTHORITY\система		Процесс исполнения клиент-сервер				
+winlogon.exe				10100				2,84 MB		NT AUTHORITY\система		Программа входа в систему Windows				
+explorer.exe				9304				20,21 MB	HOST-SERVER\OlegF		Проводник							
+  schedhlp.exe				7584				1,23 MB		HOST-SERVER\OlegF		Acronis Scheduler Helper					
+  egui.exe				10188				4,16 MB		HOST-SERVER\OlegF		ESET GUI							
+TibMounterMonitor.exe			7440				3,29 MB		HOST-SERVER\OlegF		Acronis TIB Monitor						
+csrss.exe				5624	0,02	1,95 kB/s	3,11 MB		NT AUTHORITY\система		Процесс исполнения клиент-сервер				
+winlogon.exe				17912				2,6 MB		NT AUTHORITY\система		Программа входа в систему Windows				
+explorer.exe				31676				14,98 MB	HOST-SERVER\Vekov		Проводник							
+  schedhlp.exe				19884				1,23 MB		HOST-SERVER\Vekov		Acronis Scheduler Helper					
+  egui.exe				32196				3,96 MB		HOST-SERVER\Vekov		ESET GUI							
+  TOTALCMD64.EXE			3996	0,01			11,91 MB	HOST-SERVER\Vekov		Total Commander							
+  ProcessHacker.exe			29552	0,07			24,63 MB	HOST-SERVER\Vekov		Process Hacker							
+TibMounterMonitor.exe			32372				3,23 MB		HOST-SERVER\Vekov		Acronis TIB Monitor						
+mmc.exe					13596				63,23 MB	HOST-SERVER\Vekov		Консоль управления (MMC)					
+Interrupts					0,30			0						Interrupts and DPCs						
